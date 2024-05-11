@@ -1,0 +1,1001 @@
+Order Date,Country,Market,Category,Sales,Discount,Profit
+11-11-2014,United States,USCA,Technology,221.98,0,62.1544
+05-02-2014,Australia,Asia Pacific,Furniture,3709.395,0.1,-288.765
+17-10-2014,Australia,Asia Pacific,Technology,5175.171,0.1,919.971
+28-01-2014,Germany,Europe,Technology,2892.51,0.1,-96.54
+05-11-2014,Senegal,Africa,Technology,2832.96,0,311.52
+28-06-2014,Australia,Asia Pacific,Technology,2862.675,0.1,763.275
+06-11-2012,New Zealand,Asia Pacific,Furniture,1822.08,0,564.84
+14-04-2013,New Zealand,Asia Pacific,Furniture,5244.84,0,996.48
+11-11-2014,United States,USCA,Furniture,341.96,0,54.7136
+06-03-2012,United States,USCA,Furniture,48.712,0.2,5.4801
+06-03-2012,United States,USCA,Office Supplies,17.94,0,4.6644
+19-04-2013,Afghanistan,Asia Pacific,Furniture,4626.15,0,647.55
+26-12-2012,Saudi Arabia,Asia Pacific,Technology,2616.96,0,1151.4
+13-11-2013,Brazil,LATAM,Furniture,2221.8,0,622.02
+06-06-2014,China,Asia Pacific,Office Supplies,3701.52,0,1036.08
+31-07-2015,France,Europe,Office Supplies,1869.588,0.1,186.948
+19-02-2012,United States,USCA,Office Supplies,12.624,0.2,-2.5248
+08-09-2015,Italy,Europe,Office Supplies,7958.58,0,3979.08
+31-01-2015,Australia,Asia Pacific,Technology,2565.594,0.1,28.404
+05-12-2015,Tanzania,Africa,Office Supplies,3409.74,0,818.28
+08-08-2013,Poland,Europe,Furniture,1977.72,0,276.84
+06-03-2012,United States,USCA,Office Supplies,242.94,0,4.8588
+01-05-2012,China,Asia Pacific,Furniture,2754,0,358.02
+27-02-2014,United Kingdom,Europe,Office Supplies,5273.7,0,1898.4
+31-07-2015,Mexico,LATAM,Technology,1713.84,0,445.52
+05-09-2015,El Salvador,LATAM,Furniture,2106.496,0.2,526.496
+16-12-2012,Taiwan,Asia Pacific,Furniture,1715.16,0,720.36
+13-03-2012,Germany,Europe,Office Supplies,3069.738,0.1,1364.238
+21-04-2012,United States,USCA,Office Supplies,247.84,0,121.4416
+24-02-2013,India,Asia Pacific,Furniture,1878.72,0,582.36
+27-12-2012,Dominican Republic,LATAM,Technology,1696.64,0.2,-148.46
+17-07-2013,France,Europe,Technology,2402.865,0.15,763.155
+27-12-2013,United States,USCA,Technology,668.16,0.2,75.168
+02-11-2012,Australia,Asia Pacific,Office Supplies,2526.93,0.1,561.48
+27-12-2013,United States,USCA,Office Supplies,323.1,0,61.389
+13-09-2012,Democratic Republic of the Congo,Africa,Technology,3817.26,0,1068.66
+12-05-2012,United States,USCA,Furniture,279.456,0.2,20.9592
+30-12-2012,United States,USCA,Technology,34.77,0,11.4741
+14-01-2015,United Kingdom,Europe,Technology,4141.02,0,1697.67
+10-01-2012,Australia,Asia Pacific,Technology,2875.095,0.1,511.095
+22-08-2014,Indonesia,Asia Pacific,Technology,3200.5962,0.17,-77.2038
+11-11-2015,India,Asia Pacific,Technology,4518.78,0,632.52
+26-09-2015,India,Asia Pacific,Furniture,5667.87,0,2097.03
+13-12-2013,United Kingdom,Europe,Technology,5785.02,0,404.73
+22-09-2012,Germany,Europe,Office Supplies,3018.624,0.2,377.244
+21-03-2014,United States,USCA,Furniture,86.45,0,38.038
+08-03-2014,France,Europe,Furniture,2092.5,0.1,720.75
+28-08-2015,China,Asia Pacific,Furniture,2761.2,0,110.34
+01-05-2015,India,Asia Pacific,Technology,2174.13,0,500.01
+18-12-2015,Uruguay,LATAM,Furniture,3473.14,0,868.12
+24-10-2012,United States,USCA,Office Supplies,49.408,0.2,18.528
+18-09-2015,Iran,Asia Pacific,Technology,2108.64,0,527.04
+30-12-2012,United States,USCA,Office Supplies,18.9,0,8.694
+16-12-2012,Taiwan,Asia Pacific,Furniture,2197.5,0,153.75
+18-12-2014,Mozambique,Africa,Technology,2582.16,0,593.88
+30-05-2013,India,Asia Pacific,Technology,1526.52,0,732.72
+21-04-2012,United States,USCA,Office Supplies,9.912,0.2,3.3453
+25-05-2013,India,Asia Pacific,Furniture,1745.34,0,226.86
+05-08-2015,Australia,Asia Pacific,Office Supplies,4191.507,0.1,1164.267
+12-05-2012,United States,USCA,Office Supplies,8,0,3.84
+11-03-2015,Bangladesh,Asia Pacific,Furniture,3063.27,0,581.91
+19-12-2015,United States,USCA,Office Supplies,18.704,0.2,2.338
+11-08-2015,Germany,Europe,Technology,4473,0,313.11
+31-08-2014,Germany,Europe,Technology,1502.01,0,225.18
+18-01-2015,China,Asia Pacific,Furniture,5049,0,656.37
+03-01-2015,United States,USCA,Technology,695.7,0.5,-27.828
+07-12-2015,Spain,Europe,Furniture,2188.05,0,1050.15
+16-12-2015,India,Asia Pacific,Furniture,1920.36,0,652.92
+20-11-2015,Mexico,LATAM,Technology,1704,0,119.28
+08-11-2012,Ukraine,Europe,Furniture,1858.68,0,130.08
+07-06-2014,China,Asia Pacific,Furniture,3298.26,0,1055.25
+21-11-2012,Nicaragua,LATAM,Office Supplies,2443.48,0,121.94
+29-03-2014,Democratic Republic of the Congo,Africa,Furniture,3808.8,0,1523.52
+26-08-2015,Indonesia,Asia Pacific,Furniture,3427.1496,0.47,-452.8104
+20-09-2013,United Kingdom,Europe,Technology,3441.69,0.1,38.07
+16-05-2015,Australia,Asia Pacific,Technology,2863.35,0.1,858.9
+02-08-2015,United States,USCA,Technology,1439.982,0.4,-263.9967
+24-11-2014,Germany,Europe,Technology,1487.4,0,728.7
+08-11-2012,China,Asia Pacific,Technology,3200.04,0,1183.95
+27-10-2012,India,Asia Pacific,Furniture,2301,0,91.95
+19-11-2015,France,Europe,Furniture,5729.346,0.1,63.546
+28-10-2015,Morocco,Africa,Technology,5301.24,0,2597.28
+26-09-2014,United States,USCA,Furniture,477.666,0.15,84.294
+05-09-2015,United States,USCA,Office Supplies,88.074,0.7,-58.716
+29-01-2014,Germany,Europe,Technology,3219.9,0,965.85
+18-09-2013,Indonesia,Asia Pacific,Office Supplies,2487.8088,0.17,-269.7912
+23-11-2014,Morocco,Africa,Office Supplies,2266.44,0,113.28
+13-06-2013,Australia,Asia Pacific,Technology,3068.361,0.1,1124.901
+28-10-2014,Bangladesh,Asia Pacific,Furniture,3728.43,0,1192.86
+12-12-2014,China,Asia Pacific,Technology,1581.48,0,0
+25-05-2013,India,Asia Pacific,Technology,1916.73,0,498.33
+04-10-2015,United States,USCA,Furniture,171.288,0.2,-6.4233
+02-12-2014,France,Europe,Office Supplies,2432.16,0.1,513.36
+03-01-2015,United States,USCA,Office Supplies,28.854,0.7,-21.1596
+28-01-2014,Philippines,Asia Pacific,Furniture,2465.82,0.25,197.19
+07-05-2013,Australia,Asia Pacific,Furniture,1847.52,0,738.96
+27-11-2014,Austria,Europe,Furniture,2899.89,0,927.78
+28-11-2013,Australia,Asia Pacific,Furniture,2891.7,0.1,96.39
+29-09-2013,France,Europe,Technology,2016.846,0.15,-0.054
+03-09-2014,France,Europe,Office Supplies,3155.544,0.1,34.944
+26-07-2014,Democratic Republic of the Congo,Africa,Technology,3856.14,0,1465.2
+19-11-2015,Australia,Asia Pacific,Technology,3524.472,0.1,861.372
+19-06-2013,France,Europe,Technology,2167.296,0.15,790.416
+11-10-2013,Mexico,LATAM,Technology,2556,0,178.92
+08-08-2012,Germany,Europe,Technology,1469.25,0,308.4
+04-11-2012,France,Europe,Technology,4448.832,0.15,1517.712
+26-07-2012,United States,USCA,Office Supplies,65.78,0,32.2322
+26-04-2014,Colombia,LATAM,Furniture,2472.66,0,914.76
+26-12-2014,Australia,Asia Pacific,Office Supplies,3739.176,0.1,747.816
+13-03-2014,Netherlands,Europe,Furniture,2570.865,0.5,-2211.165
+29-03-2014,United States,USCA,Office Supplies,31.4,0,7.85
+05-04-2013,Germany,Europe,Technology,2875.77,0.5,-1783.08
+26-12-2013,Spain,Europe,Furniture,1741.8,0,261.24
+18-04-2014,Australia,Asia Pacific,Technology,1601.64,0.1,587.19
+23-05-2012,China,Asia Pacific,Office Supplies,3670.8,0,367.08
+02-08-2015,United States,USCA,Office Supplies,36.288,0.2,12.7008
+16-05-2014,Germany,Europe,Technology,1900.95,0,589.2
+03-01-2015,United States,USCA,Office Supplies,15.66,0.7,-12.528
+16-02-2012,France,Europe,Furniture,4544.1,0.1,1868.13
+31-05-2014,China,Asia Pacific,Furniture,1455.12,0,116.4
+01-10-2014,Australia,Asia Pacific,Technology,1943.19,0.1,258.93
+07-11-2015,United States,USCA,Furniture,2036.86,0,366.6348
+02-09-2014,United States,USCA,Office Supplies,4355.168,0.2,1415.4296
+11-12-2014,Australia,Asia Pacific,Technology,1695.87,0.1,-37.83
+18-03-2015,France,Europe,Technology,1505.979,0.15,-265.761
+19-12-2015,Malaysia,Asia Pacific,Technology,1954.17,0,312.66
+07-11-2015,United States,USCA,Furniture,449.568,0.2,-73.0548
+14-03-2014,United States,USCA,Office Supplies,160.32,0,44.8896
+07-11-2015,United States,USCA,Technology,108.96,0,32.688
+18-09-2015,Ecuador,LATAM,Technology,1213.18876,0.002,508.00876
+25-11-2014,India,Asia Pacific,Technology,1590.6,0,572.55
+07-11-2014,China,Asia Pacific,Technology,2330.64,0,1025.46
+19-07-2015,Indonesia,Asia Pacific,Furniture,3278.5848,0.07,140.8248
+16-08-2013,Thailand,Asia Pacific,Technology,3741.5238,0.17,946.6338
+06-11-2015,United States,USCA,Office Supplies,67.8,0,31.188
+10-01-2013,Indonesia,Asia Pacific,Furniture,3637.602,0.07,156.402
+28-01-2014,Mexico,LATAM,Office Supplies,2455.88,0,785.82
+14-06-2013,China,Asia Pacific,Technology,1024.68,0.5,-286.92
+06-11-2015,United States,USCA,Office Supplies,167.94,0,82.2906
+02-09-2014,United States,USCA,Office Supplies,24.56,0,11.5432
+06-12-2013,Brazil,LATAM,Technology,2297.96,0,988.12
+05-09-2014,Italy,Europe,Technology,2671.41,0,534.24
+18-09-2015,Somalia,Africa,Technology,3834,0,268.38
+02-09-2014,United States,USCA,Office Supplies,49.12,0,23.0864
+03-08-2013,Indonesia,Asia Pacific,Office Supplies,3501.7368,0.17,210.8568
+09-12-2015,Australia,Asia Pacific,Technology,1725.462,0.1,747.612
+25-10-2013,China,Asia Pacific,Technology,1583.7,0,174.15
+08-05-2015,United States,USCA,Technology,79.99,0,28.7964
+27-08-2014,Australia,Asia Pacific,Furniture,2760.345,0.1,-214.725
+12-05-2012,Bangladesh,Asia Pacific,Technology,3078.72,0,523.08
+02-11-2012,Netherlands,Europe,Office Supplies,1983.135,0.5,-1784.895
+02-08-2015,France,Europe,Furniture,1112.778,0.1,296.658
+19-09-2012,Germany,Europe,Technology,3616.5,0,36
+14-03-2014,United States,USCA,Furniture,127.88,0,40.9216
+11-03-2014,Australia,Asia Pacific,Technology,2892.105,0.1,160.605
+01-02-2013,Germany,Europe,Technology,3263.4,0,848.4
+14-03-2014,United States,USCA,Office Supplies,46,0,20.7
+09-04-2015,Guatemala,LATAM,Furniture,3117.088,0.2,38.948
+30-08-2014,United States,USCA,Office Supplies,27.93,0,8.0997
+19-03-2015,Mexico,LATAM,Office Supplies,1888.7,0,887.6
+02-10-2014,China,Asia Pacific,Office Supplies,3000.78,0,1080.18
+12-01-2014,Spain,Europe,Office Supplies,3801.63,0,1444.59
+20-08-2015,Saudi Arabia,Asia Pacific,Technology,5211.12,0,1146.24
+16-12-2012,Taiwan,Asia Pacific,Furniture,1356.03,0,311.85
+14-03-2015,Australia,Asia Pacific,Office Supplies,3569.643,0.1,674.163
+18-09-2013,United States,USCA,Office Supplies,18.54,0,8.7138
+09-07-2015,Indonesia,Asia Pacific,Furniture,2910.0816,0.07,125.1216
+11-06-2014,Indonesia,Asia Pacific,Furniture,3126.4002,0.27,-128.7198
+09-08-2012,United Kingdom,Europe,Technology,5276.988,0.1,1758.888
+17-03-2015,Thailand,Asia Pacific,Technology,2645.376,0.17,-0.024
+02-01-2014,Australia,Asia Pacific,Furniture,1637.01,0.1,-36.39
+02-09-2014,United States,USCA,Office Supplies,3.048,0.2,1.0668
+10-10-2013,Indonesia,Asia Pacific,Technology,2645.376,0.17,-0.024
+02-09-2014,United States,USCA,Technology,6.79,0,2.3086
+16-06-2012,China,Asia Pacific,Furniture,3238.305,0.3,-740.295
+03-04-2015,United Kingdom,Europe,Furniture,2291.814,0.1,127.134
+16-05-2012,Mexico,LATAM,Technology,2124.5,0,488.6
+11-02-2015,Belarus,Europe,Furniture,2757.78,0,744.48
+12-10-2014,Spain,Europe,Technology,1549.98,0,139.32
+17-09-2015,United States,USCA,Office Supplies,20.736,0.2,7.2576
+17-07-2015,Ukraine,Europe,Office Supplies,3146.4,0,629.28
+22-11-2015,France,Europe,Technology,2456.619,0.15,664.719
+29-05-2012,France,Europe,Furniture,2228.6355,0.35,-754.4145
+06-11-2015,United States,USCA,Office Supplies,4.41,0,2.0286
+17-07-2015,India,Asia Pacific,Office Supplies,4001.04,0,1440.24
+29-08-2015,France,Europe,Technology,4876.875,0.15,745.875
+26-12-2013,Australia,Asia Pacific,Furniture,1788.822,0.3,204.282
+11-11-2015,India,Asia Pacific,Office Supplies,3622.29,0,1267.77
+01-05-2014,Indonesia,Asia Pacific,Furniture,1242.585,0.47,-140.715
+15-08-2012,United Kingdom,Europe,Technology,4453.05,0,1424.85
+03-12-2015,Cambodia,Asia Pacific,Furniture,2673.36,0,1069.2
+25-06-2014,Australia,Asia Pacific,Furniture,2046.195,0.1,591.045
+21-01-2014,United Kingdom,Europe,Furniture,5451.3,0,2071.44
+24-10-2015,United States,USCA,Furniture,637.896,0.3,-127.5792
+12-07-2015,Indonesia,Asia Pacific,Office Supplies,1722.2832,0.17,539.4432
+24-10-2015,United States,USCA,Furniture,210.68,0,50.5632
+01-09-2015,Germany,Europe,Office Supplies,1007.424,0.1,134.304
+24-10-2015,United States,USCA,Furniture,240.744,0.3,-13.7568
+06-06-2012,Australia,Asia Pacific,Office Supplies,4624.29,0.1,1644.03
+12-10-2012,Germany,Europe,Office Supplies,1066.446,0.1,-11.934
+10-06-2014,China,Asia Pacific,Technology,957.6,0,0
+13-12-2015,Australia,Asia Pacific,Office Supplies,4864.32,0.1,162.12
+16-09-2014,United States,USCA,Office Supplies,841.568,0.2,294.5488
+10-06-2015,Philippines,Asia Pacific,Office Supplies,1433.8395,0.15,-84.3705
+15-02-2012,South Africa,Africa,Office Supplies,2784.6,0,779.52
+28-11-2014,Spain,Europe,Furniture,3063.27,0,1470.21
+27-06-2014,United States,USCA,Office Supplies,231.72,0,11.586
+16-04-2015,United States,USCA,Furniture,196.45,0,70.722
+08-08-2012,Dominican Republic,LATAM,Technology,2044.8,0.2,-332.28
+18-12-2014,United States,USCA,Technology,165.6,0.2,-6.21
+02-08-2013,China,Asia Pacific,Technology,1521,0,0
+19-06-2013,France,Europe,Office Supplies,2443.905,0.1,760.305
+07-04-2015,Canada,USCA,Office Supplies,137.31,0,54.9
+02-08-2014,Iran,Asia Pacific,Technology,1141.8,0,570.9
+22-05-2015,India,Asia Pacific,Office Supplies,1865.97,0,802.17
+10-02-2012,Japan,Asia Pacific,Technology,6998.64,0,2939.31
+27-09-2014,Spain,Europe,Furniture,1091.25,0,119.97
+02-06-2015,India,Asia Pacific,Furniture,1094.22,0,328.23
+30-09-2014,Australia,Asia Pacific,Furniture,1320.624,0.1,484.224
+18-07-2012,Malaysia,Asia Pacific,Technology,2555.64,0,664.44
+14-08-2015,Russia,Europe,Furniture,3498.72,0,594.72
+24-10-2015,United States,USCA,Furniture,35,0,14.7
+31-10-2015,China,Asia Pacific,Technology,2272.86,0,977.22
+25-07-2014,China,Asia Pacific,Technology,5211.12,0,833.76
+07-10-2015,India,Asia Pacific,Technology,2582.16,0,361.44
+17-10-2015,India,Asia Pacific,Technology,3194.55,0,830.55
+03-12-2014,Australia,Asia Pacific,Furniture,1704.996,0.1,378.876
+08-11-2015,Philippines,Asia Pacific,Office Supplies,1538.721,0.15,325.701
+10-06-2014,China,Asia Pacific,Furniture,1381.32,0,593.91
+20-09-2012,France,Europe,Furniture,1181.547,0.1,498.807
+20-06-2012,France,Europe,Furniture,1696.248,0.1,734.928
+26-09-2015,United States,USCA,Office Supplies,190.896,0.2,-42.9516
+20-05-2015,United States,USCA,Furniture,314.352,0.2,-35.3646
+26-11-2015,South Africa,Africa,Office Supplies,1237.56,0,606.36
+30-03-2013,Egypt,Africa,Technology,1274.7,0,140.16
+09-11-2012,Colombia,LATAM,Office Supplies,3172.14,0,856.44
+24-10-2015,United States,USCA,Office Supplies,43.44,0,21.2856
+01-08-2013,United Kingdom,Europe,Office Supplies,3979.29,0,1989.54
+18-12-2014,United States,USCA,Office Supplies,51.84,0.2,18.144
+27-06-2014,United States,USCA,Office Supplies,17.9,0,8.95
+27-06-2014,United States,USCA,Office Supplies,12.48,0,5.616
+23-01-2014,Azerbaijan,Asia Pacific,Furniture,2058,0,946.68
+20-05-2012,Indonesia,Asia Pacific,Furniture,2539.8765,0.07,709.9365
+28-09-2015,United Kingdom,Europe,Furniture,2898.21,0,1420.02
+05-11-2012,France,Europe,Technology,1320.0075,0.15,357.1575
+28-01-2015,Lithuania,Europe,Furniture,2171.16,0.7,-2750.28
+13-09-2015,Australia,Asia Pacific,Technology,4448.223,0.1,444.483
+27-11-2015,United States,USCA,Office Supplies,12.84,0,3.7236
+21-12-2012,Argentina,LATAM,Technology,2300.616,0.4,38.196
+05-02-2014,Egypt,Africa,Furniture,2615.94,0,1072.44
+27-12-2012,India,Asia Pacific,Technology,1066.68,0,394.65
+24-10-2015,United States,USCA,Office Supplies,2.22,0,0.666
+26-04-2012,Lesotho,Africa,Technology,2544.6,0,814.2
+05-10-2012,New Zealand,Asia Pacific,Furniture,3694.68,0,886.68
+24-08-2014,China,Asia Pacific,Furniture,2214.849,0.3,-221.571
+21-09-2014,Brazil,LATAM,Furniture,1236.48,0,111.28
+17-12-2015,Nicaragua,LATAM,Office Supplies,1805.9,0,126.4
+15-11-2012,United States,USCA,Office Supplies,5.22,0,2.4012
+21-12-2013,United States,USCA,Office Supplies,3.008,0.2,0.3384
+26-09-2015,United States,USCA,Office Supplies,8.595,0.7,-6.303
+03-06-2015,Nicaragua,LATAM,Office Supplies,1810.3,0,54.3
+12-09-2015,Nicaragua,LATAM,Technology,2120.5,0,106
+17-04-2015,China,Asia Pacific,Technology,1275,0,140.22
+21-11-2013,France,Europe,Technology,1593.648,0.15,-225.162
+06-03-2015,France,Europe,Furniture,1114.236,0.1,383.706
+23-07-2013,Germany,Europe,Technology,2944.08,0.1,1112.13
+07-11-2015,Indonesia,Asia Pacific,Office Supplies,3309.2598,0.17,318.8598
+22-11-2015,Brazil,LATAM,Furniture,897.48,0,322.92
+10-06-2012,Austria,Europe,Furniture,2056.05,0,390.6
+14-09-2013,Mexico,LATAM,Technology,2365.6592,0.002,18.8592
+24-11-2012,Australia,Asia Pacific,Technology,1336.356,0.4,44.436
+10-08-2013,Japan,Asia Pacific,Technology,3038.64,0,1245.84
+20-03-2014,United Kingdom,Europe,Office Supplies,2698.65,0,890.46
+30-12-2014,Lesotho,Africa,Technology,3799.08,0,455.76
+04-10-2013,India,Asia Pacific,Furniture,2756.34,0,413.28
+06-08-2013,Spain,Europe,Technology,983.88,0.1,-11.16
+02-10-2013,Vietnam,Asia Pacific,Furniture,1719.807,0.27,117.657
+26-03-2015,Indonesia,Asia Pacific,Office Supplies,1421.541,0.17,428.121
+21-11-2015,Cuba,LATAM,Technology,1053.6884,0.002,441.2884
+29-11-2012,Netherlands,Europe,Technology,1440.84,0.5,-1268.04
+02-11-2012,Australia,Asia Pacific,Furniture,2544.372,0.1,621.792
+20-05-2015,United States,USCA,Office Supplies,27.888,0.2,10.1094
+06-12-2013,Romania,Europe,Technology,1554.48,0,341.76
+03-12-2014,Mexico,LATAM,Technology,1278,0,89.46
+20-12-2013,Mexico,LATAM,Technology,3474.08,0,625.28
+13-09-2013,Mexico,LATAM,Technology,2550,0,357
+17-09-2015,United States,USCA,Office Supplies,538.194,0.7,-412.6154
+21-09-2012,United States,USCA,Furniture,579.528,0.1,83.7096
+09-11-2013,United States,USCA,Furniture,1024.38,0,215.1198
+23-05-2013,Turkey,Asia Pacific,Technology,934.248,0.6,-1331.652
+22-06-2014,United States,USCA,Furniture,353.568,0.2,-44.196
+14-04-2015,Senegal,Africa,Technology,3908.88,0,1563.48
+29-08-2015,Mexico,LATAM,Technology,2142.3,0,556.9
+16-05-2015,New Zealand,Asia Pacific,Office Supplies,1900.584,0.4,-348.516
+13-12-2013,Cameroon,Africa,Office Supplies,1840.68,0,496.98
+30-03-2012,United Kingdom,Europe,Furniture,2624.04,0,446.04
+03-02-2013,India,Asia Pacific,Furniture,3076.5,0,215.25
+29-05-2014,Thailand,Asia Pacific,Technology,3181.7718,0.17,344.9718
+29-08-2013,Spain,Europe,Office Supplies,1392.633,0.1,-139.557
+14-06-2012,China,Asia Pacific,Furniture,1296.24,0,285.12
+28-08-2015,China,Asia Pacific,Office Supplies,1682.91,0,487.98
+26-10-2012,Nicaragua,LATAM,Technology,1278,0,89.46
+19-03-2015,Russia,Europe,Technology,2570.76,0,976.8
+11-09-2015,Brazil,LATAM,Furniture,2332.96,0.2,349.86
+28-08-2013,Australia,Asia Pacific,Furniture,1582.2,0.4,-870.3
+17-09-2015,United States,USCA,Technology,71.976,0.2,19.7934
+01-08-2014,Australia,Asia Pacific,Furniture,1512,0,498.96
+22-06-2014,United States,USCA,Office Supplies,186.144,0.2,60.4968
+24-12-2015,South Africa,Africa,Technology,2550,0,714
+17-09-2015,United States,USCA,Technology,47.984,0.2,14.3952
+22-02-2013,United Kingdom,Europe,Furniture,2285.7,0,845.7
+11-10-2015,Indonesia,Asia Pacific,Furniture,1029.2589,0.07,10.8189
+21-04-2015,Guatemala,LATAM,Technology,1058.2792,0.002,-2.1208
+12-06-2014,India,Asia Pacific,Technology,5751.54,0,2817.99
+17-09-2014,Germany,Europe,Furniture,2442.069,0.1,-244.251
+19-09-2015,New Zealand,Asia Pacific,Office Supplies,1190.52,0,178.56
+26-11-2015,France,Europe,Office Supplies,3150.819,0.1,-35.091
+01-09-2015,Germany,Europe,Technology,1599.9,0,719.85
+20-06-2015,China,Asia Pacific,Furniture,2063.4,0,123.75
+23-10-2015,Hungary,Europe,Office Supplies,1269.9,0,558.72
+15-08-2012,India,Asia Pacific,Furniture,3274.02,0,261.9
+12-09-2015,Nicaragua,LATAM,Technology,848.32,0,110.28
+02-04-2015,United States,USCA,Office Supplies,94.2,0,23.55
+14-01-2015,Italy,Europe,Technology,2847.36,0,711.84
+13-11-2015,Philippines,Asia Pacific,Furniture,1725.75,0.25,-483.3
+13-06-2014,Indonesia,Asia Pacific,Technology,1479.3138,0.07,-63.6462
+17-09-2015,United States,USCA,Furniture,22.512,0.2,2.2512
+22-09-2015,Singapore,Asia Pacific,Technology,1282.23,0,12.69
+08-01-2012,Angola,Africa,Furniture,2478.6,0,49.5
+21-09-2012,United States,USCA,Furniture,97.44,0,35.0784
+30-07-2014,Japan,Asia Pacific,Technology,959.76,0,460.62
+03-12-2015,United States,USCA,Office Supplies,34.65,0,10.395
+30-04-2015,Indonesia,Asia Pacific,Office Supplies,4135.641,0.17,847.041
+27-09-2012,El Salvador,LATAM,Furniture,2325.28,0,511.52
+24-06-2015,Australia,Asia Pacific,Furniture,5486.67,0.1,2316.51
+05-04-2012,Spain,Europe,Office Supplies,1523.664,0.1,-50.976
+07-08-2015,France,Europe,Technology,1625.2425,0.15,-76.5675
+02-04-2015,United States,USCA,Office Supplies,28.4,0,13.348
+14-02-2015,France,Europe,Office Supplies,734.94,0.1,130.62
+23-12-2012,United States,USCA,Office Supplies,13.97,0,3.6322
+17-08-2013,Romania,Europe,Furniture,1391.52,0,69.36
+09-11-2013,United States,USCA,Office Supplies,26.22,0,12.3234
+07-08-2013,Brazil,LATAM,Office Supplies,2461.06,0,566.02
+22-06-2014,United States,USCA,Office Supplies,36.56,0.2,12.796
+03-05-2014,United States,USCA,Office Supplies,18.936,0.2,-3.7872
+09-08-2013,Malaysia,Asia Pacific,Technology,1226.19,0,612.99
+21-02-2014,Australia,Asia Pacific,Furniture,1809.255,0.3,-258.495
+18-07-2013,Australia,Asia Pacific,Technology,1863,0.1,393.24
+12-09-2014,United States,USCA,Office Supplies,6,0.2,2.1
+09-04-2015,France,Europe,Office Supplies,1244.187,0.1,-13.923
+18-06-2013,France,Europe,Furniture,2364.102,0.35,-218.298
+31-12-2014,France,Europe,Technology,1946.313,0.15,114.453
+03-05-2014,United States,USCA,Office Supplies,12.672,0.2,-3.168
+15-01-2013,Germany,Europe,Office Supplies,2283.714,0.1,-0.216
+12-06-2013,Democratic Republic of the Congo,Africa,Technology,2549.76,0,1172.88
+17-03-2015,Australia,Asia Pacific,Technology,3299.562,0.1,366.282
+13-11-2013,Belgium,Europe,Office Supplies,2489.4,0,273.78
+03-05-2014,United States,USCA,Office Supplies,5.04,0.2,1.764
+17-09-2015,United States,USCA,Office Supplies,3.444,0.7,-2.7552
+16-05-2015,France,Europe,Furniture,1189.242,0.1,250.992
+09-11-2013,United States,USCA,Office Supplies,17.22,0,7.9212
+22-12-2015,El Salvador,LATAM,Furniture,1269.6,0,355.44
+14-09-2014,Pakistan,Asia Pacific,Technology,3499.155,0.5,-3009.435
+07-01-2014,Australia,Asia Pacific,Furniture,2993.025,0.3,726.825
+27-06-2015,France,Europe,Technology,815.949,0.15,287.919
+13-07-2013,Finland,Europe,Technology,1245,0,161.76
+11-02-2015,Australia,Asia Pacific,Technology,1027.728,0.1,182.688
+29-05-2015,Australia,Asia Pacific,Technology,1703.025,0.1,737.925
+16-04-2015,Indonesia,Asia Pacific,Office Supplies,1803.0837,0.17,-130.3863
+27-11-2015,France,Europe,Furniture,676.485,0.1,195.285
+08-11-2012,India,Asia Pacific,Furniture,969.36,0,348.81
+18-09-2015,France,Europe,Furniture,1637.01,0.1,90.81
+24-02-2015,Colombia,LATAM,Technology,1655.96144,0.002,13.20144
+03-09-2014,Mexico,LATAM,Furniture,976.96,0.2,232
+23-12-2014,China,Asia Pacific,Furniture,731.34,0,175.5
+17-06-2015,Ghana,Africa,Office Supplies,1239,0,0
+15-03-2015,Vietnam,Asia Pacific,Furniture,1680.606,0.27,368.256
+12-07-2015,India,Asia Pacific,Furniture,2190.75,0,65.7
+09-06-2015,United Kingdom,Europe,Technology,935.172,0.1,114.252
+15-10-2015,Austria,Europe,Office Supplies,1026.96,0,441.36
+06-08-2015,India,Asia Pacific,Technology,2550,0,280.44
+25-12-2013,Thailand,Asia Pacific,Technology,2667.537,0.17,-417.813
+07-12-2013,France,Europe,Technology,1224.714,0.15,-129.726
+16-05-2014,Germany,Europe,Technology,2605.92,0,1042.32
+17-06-2014,Iran,Asia Pacific,Office Supplies,2962.68,0,207.06
+03-11-2015,India,Asia Pacific,Furniture,2664,0,905.7
+28-05-2013,Italy,Europe,Technology,1513.56,0,741.6
+17-08-2014,United Kingdom,Europe,Furniture,1233.63,0,234.36
+02-06-2012,Ukraine,Europe,Furniture,855.15,0,384.81
+13-07-2012,United Kingdom,Europe,Technology,956.34,0.1,-95.7
+09-11-2013,United States,USCA,Office Supplies,17.34,0,8.4966
+16-10-2012,Spain,Europe,Furniture,1838.52,0.2,160.77
+13-11-2012,India,Asia Pacific,Technology,4498.83,0,674.73
+14-07-2015,France,Europe,Technology,1824.144,0.65,-1303.056
+03-06-2015,Nicaragua,LATAM,Furniture,2344,0,46.88
+15-12-2015,China,Asia Pacific,Technology,2043.72,0,756
+28-06-2015,Mozambique,Africa,Office Supplies,856.8,0,265.44
+20-12-2015,Mexico,LATAM,Office Supplies,2509.36,0,426.58
+05-02-2013,Australia,Asia Pacific,Furniture,819.936,0.1,191.316
+21-01-2012,Nicaragua,LATAM,Furniture,2797.248,0.2,-0.072
+03-08-2013,Brazil,LATAM,Office Supplies,1455.08,0,261.8
+27-10-2015,Indonesia,Asia Pacific,Furniture,2189.0898,0.07,541.3698
+26-02-2013,India,Asia Pacific,Furniture,5451.3,0,327.06
+11-06-2013,Iran,Asia Pacific,Technology,1291.08,0,296.94
+23-02-2012,India,Asia Pacific,Technology,1526.52,0,732.72
+21-09-2012,United States,USCA,Office Supplies,3.984,0.2,1.3944
+20-07-2014,Colombia,LATAM,Furniture,1869.72,0,205.56
+29-03-2014,Guatemala,LATAM,Furniture,1815.24,0,471.94
+23-10-2015,India,Asia Pacific,Technology,959.76,0,460.62
+24-06-2015,Mexico,LATAM,Technology,3045.84,0,1035.58
+30-10-2014,Nicaragua,LATAM,Technology,2125,0,297.5
+13-12-2013,Cameroon,Africa,Technology,976.08,0,292.8
+04-05-2014,China,Asia Pacific,Technology,1266.36,0,265.92
+21-09-2012,United States,USCA,Office Supplies,13.04,0,5.7376
+07-09-2012,Zambia,Africa,Furniture,2134.44,0,682.92
+22-04-2013,Germany,Europe,Technology,4748.436,0.1,844.116
+30-10-2014,South Africa,Africa,Technology,1867.5,0,242.64
+15-04-2012,China,Asia Pacific,Furniture,1001.7,0,250.38
+12-09-2014,United States,USCA,Office Supplies,1.908,0.8,-3.2436
+18-12-2014,United States,USCA,Office Supplies,9892.74,0,4946.37
+31-10-2015,Japan,Asia Pacific,Office Supplies,4306.32,0,1722.48
+12-04-2014,China,Asia Pacific,Office Supplies,899.55,0,323.82
+11-11-2014,India,Asia Pacific,Technology,763.92,0,381.96
+13-10-2013,Germany,Europe,Technology,2544.24,0,1093.92
+13-10-2013,New Zealand,Asia Pacific,Furniture,1136.664,0.4,-189.456
+30-01-2015,China,Asia Pacific,Furniture,2301,0,91.95
+12-10-2013,Democratic Republic of the Congo,Africa,Technology,3908.88,0,1563.48
+06-06-2015,United States,USCA,Technology,470.376,0.2,52.9173
+20-11-2015,United States,USCA,Furniture,821.88,0,213.6888
+19-09-2014,India,Asia Pacific,Office Supplies,2249.16,0,224.88
+31-12-2013,Mexico,LATAM,Office Supplies,2528.26,0,176.96
+29-12-2015,France,Europe,Furniture,1461.135,0.35,202.185
+15-11-2014,Mexico,LATAM,Technology,3045.84,0,1035.58
+19-12-2012,United States,USCA,Office Supplies,1103.97,0,496.7865
+19-05-2015,United States,USCA,Technology,344.704,0.2,38.7792
+08-09-2015,Philippines,Asia Pacific,Furniture,2152.956,0.35,198.636
+17-06-2014,France,Europe,Technology,1244.1,0,447.75
+07-12-2012,Mexico,LATAM,Furniture,2226.816,0.2,500.976
+19-09-2015,Australia,Asia Pacific,Furniture,1586.412,0.1,17.532
+26-09-2014,United States,USCA,Furniture,393.165,0.5,-204.4458
+10-02-2015,Iraq,Asia Pacific,Office Supplies,3425.4,0,1233
+08-02-2015,Spain,Europe,Office Supplies,1136.94,0,568.44
+05-08-2014,Indonesia,Asia Pacific,Furniture,677.6352,0.07,211.2552
+15-04-2015,Iran,Asia Pacific,Furniture,731.34,0,80.4
+07-11-2013,United States,USCA,Technology,287.91,0.4,33.5895
+05-05-2015,India,Asia Pacific,Technology,1272.72,0,534.48
+04-11-2014,Italy,Europe,Office Supplies,1856.34,0,909.54
+10-06-2015,Spain,Europe,Technology,2295,0.1,459
+31-08-2013,France,Europe,Technology,1622.1825,0.15,324.3825
+20-06-2014,China,Asia Pacific,Technology,1063.44,0,361.41
+23-08-2015,Hungary,Europe,Technology,3449.88,0,275.94
+28-05-2013,Mexico,LATAM,Furniture,585.456,0.2,-0.024
+19-05-2015,Liberia,Africa,Technology,1429.44,0,471.6
+29-04-2014,South Africa,Africa,Furniture,1057.8,0,158.64
+23-12-2014,China,Asia Pacific,Furniture,1092.96,0,393.39
+12-10-2015,Cuba,LATAM,Furniture,1483,0,741.5
+15-04-2015,Colombia,LATAM,Office Supplies,1792.4,0,304.7
+28-11-2015,Germany,Europe,Furniture,2455.677,0.1,-191.163
+11-05-2013,Georgia,Asia Pacific,Technology,1900.44,0,417.96
+18-06-2014,Thailand,Asia Pacific,Technology,3712.59,0.17,849.87
+04-05-2013,India,Asia Pacific,Technology,2372.22,0,0
+10-11-2012,China,Asia Pacific,Technology,5725.35,0,1602.99
+24-12-2015,Italy,Europe,Furniture,2553.18,0,842.52
+15-05-2015,Mexico,LATAM,Office Supplies,2003.52,0,861.48
+09-12-2015,Poland,Europe,Technology,1188.36,0,95.04
+06-12-2012,Australia,Asia Pacific,Technology,2875.095,0.1,511.095
+10-09-2014,Switzerland,Europe,Furniture,2380.5,0,952.2
+02-03-2012,Albania,Europe,Technology,1619.1,0,258.9
+01-01-2013,Indonesia,Asia Pacific,Office Supplies,2821.7178,0.17,339.8778
+30-10-2013,Indonesia,Asia Pacific,Technology,2991.1032,0.07,-128.7468
+19-11-2014,Thailand,Asia Pacific,Office Supplies,1798.6764,0.17,86.6364
+15-08-2014,Russia,Europe,Technology,2544.84,0,712.44
+08-06-2014,Japan,Asia Pacific,Furniture,951.72,0,228.36
+02-10-2015,Bangladesh,Asia Pacific,Technology,2575.92,0,978.84
+27-02-2015,United Kingdom,Europe,Office Supplies,1699.83,0,84.96
+31-10-2014,Australia,Asia Pacific,Furniture,2634.552,0.1,116.952
+18-12-2014,Indonesia,Asia Pacific,Furniture,3707.352,0.07,1554.432
+09-05-2015,India,Asia Pacific,Furniture,4298.85,0,300.9
+04-07-2015,China,Asia Pacific,Office Supplies,3417.48,0,854.28
+17-05-2013,Spain,Europe,Office Supplies,2080.32,0,561.6
+02-08-2012,India,Asia Pacific,Technology,840.6,0,319.35
+20-09-2015,United States,USCA,Technology,471.92,0.2,29.495
+14-02-2014,Chad,Africa,Office Supplies,1288.8,0,90
+23-05-2013,Australia,Asia Pacific,Furniture,660.69,0.1,44.04
+04-08-2015,Montenegro,Europe,Office Supplies,3234.24,0,970.2
+13-11-2014,Brazil,LATAM,Technology,2171.3,0,390.8
+12-02-2015,Australia,Asia Pacific,Technology,2074.734,0.1,276.534
+11-11-2015,Mexico,LATAM,Technology,849.8,0,195.44
+30-03-2014,Australia,Asia Pacific,Furniture,1177.173,0.1,353.133
+07-11-2013,United States,USCA,Office Supplies,177.648,0.2,-28.8678
+20-09-2015,United States,USCA,Technology,89.584,0.2,4.4792
+19-08-2014,Pakistan,Asia Pacific,Technology,2863.08,0.5,-458.19
+29-05-2015,France,Europe,Office Supplies,1253.07,0.1,236.67
+22-08-2013,Iran,Asia Pacific,Office Supplies,3369.24,0,606.42
+05-07-2015,Namibia,Africa,Technology,1464.12,0,439.2
+14-03-2013,Netherlands,Europe,Furniture,1273.125,0.5,-993.195
+15-05-2015,Canada,USCA,Office Supplies,29.94,0,10.74
+16-09-2015,Guatemala,LATAM,Technology,1258.7774,0.002,375.7774
+07-08-2015,Pakistan,Asia Pacific,Furniture,2584.008,0.2,290.598
+09-09-2014,Philippines,Asia Pacific,Technology,1482.39,0.35,68.31
+08-09-2015,El Salvador,LATAM,Technology,1274.7,0,293.16
+07-11-2013,United States,USCA,Office Supplies,84.784,0.2,-16.9568
+17-10-2013,Cuba,LATAM,Furniture,2818.08,0,225.36
+17-02-2015,Philippines,Asia Pacific,Furniture,1046.25,0.25,-111.6
+23-02-2013,India,Asia Pacific,Technology,3187.2,0,541.8
+03-12-2013,Australia,Asia Pacific,Furniture,4099.68,0.1,956.58
+12-12-2013,China,Asia Pacific,Office Supplies,703.35,0,260.1
+16-06-2015,Australia,Asia Pacific,Technology,2293.488,0.1,509.568
+20-12-2013,France,Europe,Technology,1238.6115,0.15,14.4315
+13-05-2015,Mexico,LATAM,Furniture,1715.056,0.2,300.076
+04-08-2015,United States,USCA,Technology,39.816,0.2,7.4655
+07-11-2015,Australia,Asia Pacific,Furniture,2841.66,0,852.48
+10-06-2014,Portugal,Europe,Office Supplies,3399.66,0.5,-3059.82
+10-05-2013,India,Asia Pacific,Technology,1607.76,0,482.22
+13-09-2014,India,Asia Pacific,Technology,840.15,0,260.4
+25-07-2014,China,Asia Pacific,Furniture,1236.33,0,519.21
+11-10-2015,India,Asia Pacific,Office Supplies,2488.56,0,348.24
+21-11-2012,Dominican Republic,LATAM,Office Supplies,1124.256,0.2,252.896
+07-11-2013,United States,USCA,Furniture,64.96,0.6,-84.448
+25-10-2015,Mexico,LATAM,Furniture,726.72,0.2,-18.18
+02-02-2014,United States,USCA,Office Supplies,117.96,0,5.898
+14-10-2014,Madagascar,Africa,Technology,1519.92,0,653.4
+14-02-2012,Russia,Europe,Technology,1279.32,0,319.8
+01-05-2015,India,Asia Pacific,Furniture,723.3,0,122.85
+10-03-2012,Iran,Asia Pacific,Technology,642.69,0,244.2
+03-08-2013,Australia,Asia Pacific,Furniture,2619,0.1,232.68
+20-12-2013,Pakistan,Asia Pacific,Office Supplies,1704.87,0.5,-1023.03
+03-08-2013,Italy,Europe,Technology,1715.91,0,583.38
+20-06-2013,China,Asia Pacific,Technology,1278,0,460.08
+08-02-2014,Morocco,Africa,Office Supplies,1234.56,0,246.84
+27-09-2012,Belgium,Europe,Office Supplies,4195.2,0,839.04
+23-06-2013,France,Europe,Furniture,1765.395,0.1,-98.205
+20-12-2014,Colombia,LATAM,Furniture,1480.368,0.2,333.048
+11-10-2013,Mexico,LATAM,Technology,2968.98,0,89.04
+28-08-2012,Australia,Asia Pacific,Furniture,2301.138,0.3,-953.442
+18-07-2015,Austria,Europe,Furniture,1100.52,0,352.08
+05-12-2012,China,Asia Pacific,Technology,2518.95,0,553.98
+16-04-2015,United Kingdom,Europe,Furniture,996.3,0,119.55
+20-09-2015,United States,USCA,Office Supplies,18.18,0.7,-13.938
+01-09-2012,Austria,Europe,Furniture,922.95,0,341.49
+01-08-2014,France,Europe,Furniture,1850.445,0.1,184.995
+12-09-2015,Nicaragua,LATAM,Furniture,664.56,0,6.6
+06-08-2015,France,Europe,Technology,1547.1,0,340.2
+20-11-2015,Vietnam,Asia Pacific,Office Supplies,2190.951,0.17,316.701
+04-05-2013,Mexico,LATAM,Office Supplies,3242.88,0,324.18
+27-08-2013,Morocco,Africa,Technology,2544.6,0,1246.8
+24-12-2014,Ukraine,Europe,Technology,2605.56,0,573.12
+29-01-2014,Spain,Europe,Office Supplies,1271.457,0.1,-127.413
+15-05-2015,Canada,USCA,Office Supplies,34.02,0,14.28
+26-12-2012,Saudi Arabia,Asia Pacific,Technology,1207.56,0,0
+30-11-2013,Singapore,Asia Pacific,Furniture,2051.1,0,40.95
+21-05-2014,El Salvador,LATAM,Technology,2544.24,0,992.16
+07-11-2013,United States,USCA,Office Supplies,23.64,0.2,5.319
+27-06-2015,United Kingdom,Europe,Furniture,1314.45,0,341.73
+20-09-2015,United States,USCA,Office Supplies,12.624,0.2,-2.5248
+25-07-2014,Brazil,LATAM,Furniture,980.32,0.2,110.28
+20-11-2015,United States,USCA,Office Supplies,21.96,0,10.7604
+26-10-2012,China,Asia Pacific,Furniture,2470.5,0,518.76
+07-11-2013,United States,USCA,Office Supplies,32.06,0.8,-51.296
+26-12-2013,New Zealand,Asia Pacific,Furniture,877.02,0,105.24
+19-12-2012,United States,USCA,Office Supplies,3.69,0,1.7343
+07-05-2013,New Zealand,Asia Pacific,Technology,1917.36,0,747.72
+08-01-2012,China,Asia Pacific,Technology,2173.5,0,260.82
+19-12-2014,United States,USCA,Furniture,377.45,0.5,-264.215
+09-04-2015,United States,USCA,Office Supplies,195.76,0,97.88
+17-06-2012,Spain,Europe,Furniture,1814.25,0,653.1
+09-01-2013,Sweden,Europe,Office Supplies,1293.675,0.5,-776.325
+11-02-2015,Spain,Europe,Office Supplies,2477.55,0,1040.55
+17-07-2012,United States,USCA,Furniture,259.136,0.2,-25.9136
+12-04-2013,India,Asia Pacific,Technology,723.3,0,332.7
+03-01-2015,Spain,Europe,Technology,2097.12,0,188.64
+09-04-2015,United States,USCA,Office Supplies,244.55,0,114.9385
+13-12-2015,Japan,Asia Pacific,Office Supplies,3242.88,0,421.56
+03-07-2015,United States,USCA,Office Supplies,163.96,0.2,59.4355
+18-08-2015,United States,USCA,Technology,98.16,0,9.816
+07-10-2015,Italy,Europe,Furniture,597.36,0,226.92
+20-06-2014,Ukraine,Europe,Office Supplies,3955.14,0,1383.9
+11-07-2015,Indonesia,Asia Pacific,Furniture,796.824,0.07,231.264
+24-04-2015,Germany,Europe,Technology,2305.26,0,922.05
+03-05-2012,El Salvador,LATAM,Furniture,2833.76,0.2,35.36
+05-10-2012,India,Asia Pacific,Office Supplies,2077.32,0,581.64
+12-11-2015,Cuba,LATAM,Furniture,1916.88,0,939.26
+17-12-2015,Nicaragua,LATAM,Furniture,1212.5,0,606.2
+18-08-2015,United States,USCA,Office Supplies,102.93,0,48.3771
+05-04-2014,France,Europe,Technology,1622.565,0.15,133.605
+19-09-2015,New Zealand,Asia Pacific,Technology,856.44,0,222.66
+19-12-2014,United States,USCA,Office Supplies,45.24,0.7,-30.16
+10-07-2015,Germany,Europe,Furniture,1361.043,0.1,196.533
+06-10-2015,China,Asia Pacific,Technology,3391.74,0,271.08
+01-06-2014,Dominican Republic,LATAM,Technology,2375.296,0.2,-207.844
+20-08-2013,South Africa,Africa,Furniture,889.02,0,320.04
+29-08-2012,Russia,Europe,Furniture,1782.48,0,873.36
+04-12-2013,France,Europe,Technology,667.7685,0.15,274.9185
+13-10-2015,Australia,Asia Pacific,Technology,1612.845,0.1,394.245
+19-12-2014,Spain,Europe,Office Supplies,845.208,0.1,-9.492
+16-06-2013,India,Asia Pacific,Office Supplies,2799.63,0,391.77
+20-08-2014,Myanmar (Burma),Asia Pacific,Office Supplies,1549.1286,0.17,-56.1114
+21-06-2013,Mexico,LATAM,Technology,1696.4,0,67.84
+23-05-2013,Mexico,LATAM,Office Supplies,935.5,0,168.3
+30-04-2014,France,Europe,Technology,2036.8125,0.15,359.3025
+15-06-2013,France,Europe,Technology,980.52,0,176.4
+19-12-2014,United States,USCA,Office Supplies,18.688,0.2,2.336
+18-12-2014,France,Europe,Technology,1654.644,0.15,681.204
+21-07-2015,Indonesia,Asia Pacific,Furniture,2063.7684,0.27,141.1884
+08-02-2014,Morocco,Africa,Technology,1457.28,0,568.32
+26-10-2012,China,Asia Pacific,Technology,1693.23,0,829.5
+19-12-2014,United States,USCA,Technology,28.68,0.2,-7.17
+26-02-2014,Brazil,LATAM,Furniture,1411.2,0.2,405.72
+25-11-2012,Germany,Europe,Office Supplies,2039.796,0.1,-113.364
+20-08-2013,China,Asia Pacific,Technology,5737.5,0,630.99
+24-05-2013,Australia,Asia Pacific,Technology,1641.087,0.1,473.907
+03-11-2012,Jamaica,LATAM,Furniture,1380.9,0,303.7
+21-09-2012,India,Asia Pacific,Technology,1917,0,690.12
+17-10-2014,New Zealand,Asia Pacific,Furniture,823.5,0,172.92
+19-12-2014,United States,USCA,Technology,112.776,0.2,-8.4582
+05-06-2014,China,Asia Pacific,Technology,3180.75,0,1081.35
+14-05-2014,France,Europe,Technology,2910.1875,0.15,-68.7225
+19-12-2014,United States,USCA,Office Supplies,15.936,0.2,5.1792
+03-07-2015,United States,USCA,Office Supplies,5.232,0.8,-8.1096
+21-10-2014,China,Asia Pacific,Technology,910.35,0,391.35
+11-08-2015,United Kingdom,Europe,Furniture,856.68,0,274.08
+04-05-2014,Mexico,LATAM,Furniture,1731.072,0.2,-238.028
+15-07-2014,Spain,Europe,Technology,1330.992,0.1,-103.608
+19-12-2014,United States,USCA,Office Supplies,11.648,0.2,3.7856
+02-12-2015,Dominican Republic,LATAM,Technology,1914.08,0.2,669.76
+08-01-2015,Brazil,LATAM,Technology,3393.12,0,101.76
+01-07-2014,United States,USCA,Technology,50.12,0.2,-0.6265
+27-06-2015,China,Asia Pacific,Technology,1446.6,0,665.4
+11-03-2012,China,Asia Pacific,Furniture,3272.01,0,1537.83
+15-01-2014,Philippines,Asia Pacific,Office Supplies,3386.859,0.15,-597.681
+28-08-2013,Australia,Asia Pacific,Office Supplies,2498.526,0.1,499.446
+18-11-2012,Greece,Europe,Technology,728.532,0.4,-133.728
+24-12-2015,Qatar,Asia Pacific,Technology,2575.92,0,772.68
+16-06-2013,Italy,Europe,Furniture,2546.46,0,381.78
+11-07-2014,Japan,Asia Pacific,Furniture,2888.76,0,173.25
+22-05-2013,Malaysia,Asia Pacific,Technology,1031.4,0,185.64
+05-08-2015,United Kingdom,Europe,Technology,1237.44,0,74.16
+12-08-2015,Democratic Republic of the Congo,Africa,Technology,1018.32,0,183.24
+26-12-2013,Spain,Europe,Office Supplies,600.6,0,131.82
+05-01-2014,France,Europe,Furniture,2756.943,0.1,1163.883
+29-12-2015,Australia,Asia Pacific,Office Supplies,1534.869,0.1,-102.411
+16-12-2014,New Zealand,Asia Pacific,Technology,6439.8,0,2447.1
+27-02-2014,Indonesia,Asia Pacific,Technology,1781.136,0.07,-134.064
+04-07-2013,Brazil,LATAM,Technology,1363.2,0.6,-1806.24
+20-08-2013,United Kingdom,Europe,Furniture,3315.27,0,961.38
+01-11-2015,United States,USCA,Office Supplies,5.248,0.2,0.5904
+03-07-2013,France,Europe,Technology,2123.028,0.15,124.788
+29-11-2015,Germany,Europe,Technology,2478.84,0,272.58
+07-04-2012,Australia,Asia Pacific,Office Supplies,1894.536,0.1,505.176
+20-11-2015,United States,USCA,Office Supplies,41.28,0.2,13.932
+09-05-2013,Canada,USCA,Office Supplies,187.02,0,26.1
+19-11-2013,China,Asia Pacific,Technology,1317.9,0,0
+01-09-2015,Germany,Europe,Technology,1350.09,0,256.41
+04-11-2014,China,Asia Pacific,Technology,1839.18,0,238.98
+20-11-2015,United States,USCA,Office Supplies,13.36,0,6.4128
+19-11-2014,United Kingdom,Europe,Technology,1908.18,0,820.44
+31-12-2015,Brazil,LATAM,Technology,1264.466,0.002,301.466
+14-11-2014,United States,USCA,Furniture,4.18,0,1.5048
+01-02-2013,Germany,Europe,Technology,965.16,0,463.26
+19-03-2014,France,Europe,Office Supplies,748.116,0.1,282.516
+21-03-2013,France,Europe,Furniture,943.866,0.1,209.706
+24-05-2015,China,Asia Pacific,Furniture,1447.44,0,43.32
+14-06-2014,Italy,Europe,Technology,1552.5,0,62.1
+04-03-2012,United States,USCA,Technology,479.97,0,177.5889
+04-03-2012,United States,USCA,Office Supplies,97.82,0,45.9754
+04-03-2012,United States,USCA,Office Supplies,59.52,0,15.4752
+09-12-2014,Brazil,LATAM,Furniture,919.26,0,266.58
+09-10-2014,Mexico,LATAM,Technology,3045.84,0,1035.58
+16-10-2014,Australia,Asia Pacific,Technology,766.872,0.4,114.972
+23-12-2012,Morocco,Africa,Furniture,2880.18,0,115.2
+16-04-2014,Brazil,LATAM,Office Supplies,1403.36,0,449.04
+08-08-2012,Dominican Republic,LATAM,Office Supplies,1819.104,0.2,500.184
+04-03-2012,United States,USCA,Office Supplies,49.632,0.2,16.7508
+18-10-2012,China,Asia Pacific,Furniture,2018.331,0.3,-576.909
+23-02-2012,India,Asia Pacific,Furniture,2065.5,0,41.25
+09-03-2012,China,Asia Pacific,Technology,1274.16,0,382.2
+25-01-2015,India,Asia Pacific,Furniture,2485.62,0,795.24
+18-06-2015,United Kingdom,Europe,Office Supplies,1560.24,0,421.2
+23-12-2012,China,Asia Pacific,Technology,3271.2,0,1341.15
+08-01-2014,Mexico,LATAM,Furniture,751.488,0.2,-112.752
+04-01-2014,Guatemala,LATAM,Technology,2120.8,0,275.7
+31-01-2015,France,Europe,Technology,2102.832,0.15,321.552
+03-11-2012,France,Europe,Technology,820.488,0.15,183.288
+05-09-2015,United States,USCA,Technology,91.96,0,39.5428
+24-09-2014,Tanzania,Africa,Office Supplies,553.44,0,16.56
+21-06-2012,Australia,Asia Pacific,Technology,1718.172,0.1,610.812
+30-08-2013,Germany,Europe,Furniture,2794.2525,0.35,515.7525
+17-06-2014,France,Europe,Furniture,1242.54,0.1,345.15
+20-11-2015,United States,USCA,Office Supplies,99.136,0.2,8.6744
+18-12-2013,China,Asia Pacific,Technology,1274.7,0,165.66
+25-09-2014,Morocco,Africa,Technology,1553.76,0,730.26
+24-03-2015,Mexico,LATAM,Furniture,2205.568,0.2,689.088
+31-01-2014,United States,USCA,Office Supplies,15.552,0.2,5.4432
+02-12-2012,Germany,Europe,Technology,3227.7,0,742.35
+28-05-2015,India,Asia Pacific,Furniture,1395,0,237.15
+14-06-2015,Germany,Europe,Furniture,2291.835,0.35,-1128.435
+11-11-2012,Republic of the Congo,Africa,Furniture,1660.8,0,83.04
+31-05-2014,China,Asia Pacific,Furniture,2436.672,0.3,-487.368
+04-03-2012,United States,USCA,Office Supplies,18.62,0,5.3998
+16-08-2012,Russia,Europe,Furniture,954.6,0,152.7
+06-03-2013,El Salvador,LATAM,Office Supplies,1903,0,57
+20-11-2015,United States,USCA,Office Supplies,16.896,0.2,5.28
+06-08-2015,Norway,Europe,Technology,1590.9,0,508.95
+18-06-2015,Iraq,Asia Pacific,Furniture,1467.36,0,469.44
+31-12-2015,Indonesia,Asia Pacific,Furniture,1091.2806,0.07,46.9206
+24-09-2013,Nicaragua,LATAM,Technology,2014.3632,0.002,419.8032
+18-02-2014,Democratic Republic of the Congo,Africa,Furniture,3877.68,0,930.48
+20-11-2015,United States,USCA,Office Supplies,6.672,0.2,0.5004
+20-11-2015,United States,USCA,Furniture,15.992,0.6,-13.993
+24-11-2015,Australia,Asia Pacific,Technology,2863.35,0.1,858.9
+23-09-2015,Philippines,Asia Pacific,Furniture,2841.66,0.25,189.42
+04-11-2015,France,Europe,Technology,765.459,0.15,-36.081
+01-09-2015,Australia,Asia Pacific,Office Supplies,1887.84,0.1,0
+10-09-2013,United States,USCA,Office Supplies,14.94,0,7.0218
+21-01-2014,Canada,USCA,Office Supplies,410.88,0,78
+17-04-2015,Cuba,LATAM,Office Supplies,1801.6,0,180.1
+08-03-2014,France,Europe,Technology,779.28,0.15,-0.12
+25-02-2012,Algeria,Africa,Technology,613.26,0,202.32
+28-03-2013,United States,USCA,Technology,166.24,0,24.936
+16-09-2015,Australia,Asia Pacific,Furniture,1837.56,0,275.52
+08-07-2014,Italy,Europe,Office Supplies,3979.29,0,1989.54
+25-06-2013,United States,USCA,Office Supplies,304.23,0,9.1269
+31-12-2014,Nicaragua,LATAM,Technology,1198.2986,0.002,165.5986
+16-09-2015,United States,USCA,Office Supplies,163.96,0.2,59.4355
+29-01-2015,Australia,Asia Pacific,Furniture,1864.215,0.1,455.565
+07-09-2012,Turkey,Asia Pacific,Furniture,1142.64,0.6,-571.32
+17-02-2015,France,Europe,Furniture,1630.8,0.1,18
+30-05-2013,Lithuania,Europe,Technology,1172.664,0.7,-1172.736
+02-01-2014,Iran,Asia Pacific,Technology,2021.88,0,323.4
+23-11-2013,Mexico,LATAM,Furniture,836.928,0.2,230.128
+11-04-2015,Saudi Arabia,Asia Pacific,Technology,1302.78,0,286.56
+03-08-2013,Egypt,Africa,Office Supplies,2243.88,0,246.72
+18-11-2015,Australia,Asia Pacific,Technology,1221.561,0.1,325.611
+12-12-2012,China,Asia Pacific,Office Supplies,1609.29,0,241.38
+20-06-2015,Australia,Asia Pacific,Technology,1596.51,0.1,-53.37
+15-04-2015,United States,USCA,Office Supplies,89.856,0.2,21.3408
+21-05-2014,China,Asia Pacific,Technology,2018.88,0,928.44
+03-10-2015,South Africa,Africa,Technology,1885.32,0,18.72
+25-12-2012,United Kingdom,Europe,Furniture,3119.34,0,1528.38
+24-09-2015,Germany,Europe,Furniture,1964.25,0.1,21.69
+25-06-2013,United States,USCA,Office Supplies,88.752,0.2,27.735
+26-08-2015,Australia,Asia Pacific,Furniture,1653.804,0.4,-689.256
+18-11-2015,Saudi Arabia,Asia Pacific,Technology,621,0,180.06
+01-12-2013,India,Asia Pacific,Technology,2673.81,0,26.73
+06-09-2015,Italy,Europe,Furniture,1307.97,0,536.22
+30-09-2015,Italy,Europe,Technology,1145.232,0.4,-706.248
+31-03-2015,United States,USCA,Furniture,94.2,0,39.564
+26-09-2013,Guatemala,LATAM,Technology,1902.10816,0.002,872.82816
+30-12-2015,Switzerland,Europe,Technology,1913.4,0,899.1
+20-01-2015,Mozambique,Africa,Furniture,1854.72,0,778.92
+15-07-2014,France,Europe,Furniture,2958.984,0.1,953.274
+28-02-2012,South Korea,Asia Pacific,Office Supplies,810.72,0.5,-599.94
+31-03-2015,France,Europe,Furniture,2953.584,0.1,754.704
+03-06-2014,Italy,Europe,Office Supplies,2593.8,0,1141.2
+05-03-2014,Indonesia,Asia Pacific,Office Supplies,2051.013,0.17,667.113
+15-11-2012,United States,USCA,Furniture,37.296,0.3,-1.0656
+15-10-2015,Austria,Europe,Technology,1318.65,0,567
+22-05-2012,Malaysia,Asia Pacific,Technology,1120.77,0,55.89
+10-05-2013,United States,USCA,Technology,46.688,0.2,-2.918
+29-08-2015,Brazil,LATAM,Office Supplies,3044.8,0,91.2
+21-06-2015,France,Europe,Furniture,656.856,0.1,94.836
+08-05-2015,United Kingdom,Europe,Technology,2518.95,0,1032.57
+19-08-2014,Nigeria,Africa,Furniture,1669.248,0.7,-1558.152
+27-06-2014,Spain,Europe,Furniture,2476.08,0,1015.02
+24-01-2012,Estonia,Europe,Technology,1302.78,0,286.56
+28-03-2013,United States,USCA,Office Supplies,33.4,0,16.032
+04-12-2015,Australia,Asia Pacific,Furniture,2125.32,0,148.68
+28-06-2014,United Kingdom,Europe,Technology,1954.44,0,781.74
+24-05-2013,Brazil,LATAM,Technology,856.92,0,222.76
+08-12-2015,Indonesia,Asia Pacific,Technology,3696.0315,0.17,756.8715
+11-12-2013,India,Asia Pacific,Technology,1302.96,0,182.4
+05-03-2015,Turkey,Asia Pacific,Furniture,1136.664,0.6,-880.956
+25-06-2014,Australia,Asia Pacific,Technology,1720.116,0.1,382.176
+02-06-2015,Indonesia,Asia Pacific,Technology,1043.9304,0.47,-295.5096
+26-09-2012,Cote d'Ivoire,Africa,Technology,1253.76,0,200.52
+05-06-2014,Honduras,LATAM,Office Supplies,2180.244,0.4,-690.536
+16-10-2014,France,Europe,Technology,1306.467,0.15,107.487
+06-12-2015,United States,USCA,Office Supplies,24.816,0.2,8.3754
+25-06-2013,United States,USCA,Office Supplies,20.96,0,5.24
+21-11-2015,Mexico,LATAM,Furniture,775.536,0.2,213.216
+10-11-2013,France,Europe,Furniture,2012.049,0.35,-1021.671
+07-06-2012,Indonesia,Asia Pacific,Technology,2166.8976,0.17,391.4976
+07-04-2015,India,Asia Pacific,Technology,3271.2,0,1341.15
+17-10-2012,Cuba,LATAM,Technology,755.80536,0.002,195.34536
+25-04-2013,South Africa,Africa,Furniture,2182.68,0,327.24
+31-08-2013,China,Asia Pacific,Technology,1285.56,0,51.42
+18-04-2013,Guatemala,LATAM,Technology,1479.36,0,103.44
+20-12-2014,Brazil,LATAM,Furniture,740.184,0.6,-407.136
+04-06-2014,Norway,Europe,Technology,1533.15,0,505.8
+25-06-2013,Saudi Arabia,Asia Pacific,Furniture,2563.92,0,820.32
+16-08-2013,Australia,Asia Pacific,Technology,2897.91,0.1,901.56
+14-08-2015,Pakistan,Asia Pacific,Office Supplies,1582.11,0.5,-886.05
+15-04-2015,United States,USCA,Office Supplies,14.592,0.2,2.5536
+03-09-2014,Guatemala,LATAM,Technology,2616.96,0,26.16
+29-05-2015,United Kingdom,Europe,Furniture,1399.113,0.1,108.783
+24-06-2014,Switzerland,Europe,Technology,3421.71,0,1060.56
+15-04-2015,United States,USCA,Office Supplies,13.872,0.2,5.0286
+08-05-2015,Paraguay,LATAM,Technology,820.08,0,98.28
+06-12-2015,United States,USCA,Office Supplies,14.976,0.2,5.4288
+13-02-2015,Iran,Asia Pacific,Furniture,1198.56,0,359.52
+28-11-2015,Australia,Asia Pacific,Furniture,1832.607,0.3,-445.113
+24-08-2013,Germany,Europe,Furniture,1857.06,0.1,639.51
+02-08-2015,Democratic Republic of the Congo,Africa,Furniture,1752.6,0,455.64
+28-11-2014,India,Asia Pacific,Furniture,1850.46,0,259.02
+18-08-2012,China,Asia Pacific,Furniture,2337.15,0,1098.45
+13-03-2015,United Kingdom,Europe,Furniture,788.4,0,291.6
+04-04-2014,France,Europe,Technology,715.53,0.15,100.98
+23-01-2015,United States,USCA,Technology,2999.95,0,1379.977
+17-05-2015,India,Asia Pacific,Furniture,3094.56,0,1423.44
+23-04-2014,Guatemala,LATAM,Technology,882.0324,0.002,148.3524
+23-01-2015,United States,USCA,Office Supplies,1126.02,0,56.301
+14-09-2013,Australia,Asia Pacific,Furniture,953.82,0.3,-81.81
+26-09-2015,India,Asia Pacific,Furniture,2871.54,0,57.33
+05-10-2013,India,Asia Pacific,Technology,2544.6,0,865.08
+29-10-2015,Indonesia,Asia Pacific,Technology,886.1412,0.17,106.7412
+22-11-2012,Indonesia,Asia Pacific,Technology,473.847,0.17,-5.853
+10-12-2015,Cote d'Ivoire,Africa,Technology,1767.6,0,0
+08-12-2012,Mexico,LATAM,Furniture,780.608,0.2,-0.032
+25-12-2012,United States,USCA,Furniture,600.558,0.3,-8.5794
+17-12-2014,Spain,Europe,Office Supplies,2711.7,0,1220.25
+14-04-2015,United Kingdom,Europe,Office Supplies,2111.97,0,190.05
+20-12-2015,Philippines,Asia Pacific,Furniture,1189.2825,0.25,-396.4275
+17-09-2014,India,Asia Pacific,Technology,1908.45,0,534.33
+02-12-2015,United States,USCA,Furniture,897.15,0,251.202
+01-05-2015,United States,USCA,Office Supplies,163.96,0,80.3404
+26-12-2013,Thailand,Asia Pacific,Furniture,1854.9297,0.57,-1294.3503
+11-10-2014,China,Asia Pacific,Technology,924.66,0,397.53
+25-04-2013,China,Asia Pacific,Furniture,1760.43,0.3,-326.97
+23-06-2015,Russia,Europe,Technology,827.28,0,397.08
+28-11-2013,Dominican Republic,LATAM,Office Supplies,1510.96,0.2,509.86
+27-06-2015,India,Asia Pacific,Technology,2098.32,0,860.16
+26-06-2015,Brazil,LATAM,Furniture,1938.24,0.2,-96.96
+17-09-2013,Italy,Europe,Technology,803.52,0.4,-495.63
+28-11-2014,India,Asia Pacific,Furniture,1391.76,0,97.38
+14-11-2015,United States,USCA,Technology,163.96,0,70.5028
+23-07-2015,Australia,Asia Pacific,Office Supplies,952.29,0.1,-53.01
+04-09-2015,Italy,Europe,Furniture,2927.28,0,146.16
+14-06-2013,United States,USCA,Furniture,51.072,0.2,5.1072
+23-01-2015,United States,USCA,Office Supplies,51.45,0,13.8915
+02-12-2015,United States,USCA,Office Supplies,19.44,0,9.3312
+18-01-2015,Pakistan,Asia Pacific,Office Supplies,2117.22,0.5,-1736.28
+26-06-2015,Malaysia,Asia Pacific,Furniture,2747.7,0,82.26
+25-01-2013,Malaysia,Asia Pacific,Furniture,1014.72,0,141.96
+07-07-2013,Bangladesh,Asia Pacific,Technology,1591.56,0,79.56
+27-11-2012,Mexico,LATAM,Technology,533.22,0,69.3
+27-11-2015,Brazil,LATAM,Technology,2124.5,0,488.6
+07-12-2013,Indonesia,Asia Pacific,Office Supplies,1053.8676,0.17,-152.4924
+18-11-2012,United States,USCA,Office Supplies,5.88,0.2,1.9845
+17-12-2013,United Kingdom,Europe,Technology,1248.84,0,249.72
+19-11-2014,Guatemala,LATAM,Furniture,2040.92,0,959.14
+02-09-2015,France,Europe,Office Supplies,1068.714,0.1,-0.126
+16-05-2015,Brazil,LATAM,Furniture,875.22,0,139.98
+05-11-2014,Australia,Asia Pacific,Technology,1403.082,0.1,296.082
+06-11-2012,Poland,Europe,Furniture,1743.96,0,714.96
+09-04-2014,Iraq,Asia Pacific,Technology,1071.84,0,310.8
+12-06-2015,Italy,Europe,Technology,925.02,0.4,-447.18
+10-06-2014,Argentina,LATAM,Furniture,1682.748,0.4,-813.492
+05-07-2015,China,Asia Pacific,Furniture,1944.9,0,291.6
+01-05-2014,India,Asia Pacific,Technology,3040.8,0,1155.36
+04-07-2013,United States,USCA,Office Supplies,15.48,0,4.4892
+06-11-2013,Mexico,LATAM,Technology,1003.34928,0.002,178.94928
+23-01-2015,United States,USCA,Office Supplies,11.96,0,5.382
+14-09-2012,Australia,Asia Pacific,Office Supplies,808.731,0.1,-0.189
+26-12-2014,France,Europe,Technology,2764.3275,0.15,-195.4425
+19-12-2014,United States,USCA,Office Supplies,961.48,0.2,-204.3145
+02-09-2015,Czech Republic,Europe,Furniture,457.14,0,169.14
+19-12-2014,United States,USCA,Office Supplies,254.058,0.7,-169.372
+25-06-2014,Australia,Asia Pacific,Technology,1933.2,0.1,-128.88
+25-06-2012,France,Europe,Furniture,704.052,0.1,312.912
+24-09-2015,France,Europe,Office Supplies,1355.13,0.1,-60.27
+05-03-2013,United States,USCA,Furniture,99.372,0.3,-7.098
+19-12-2014,United States,USCA,Office Supplies,194.528,0.2,24.316
+04-10-2014,China,Asia Pacific,Furniture,2819.52,0,338.22
+08-11-2013,China,Asia Pacific,Technology,2571.12,0,102.84
+27-01-2013,Central African Republic,Africa,Technology,976.08,0,292.8
+19-12-2013,New Zealand,Asia Pacific,Technology,607.32,0,115.32
+08-08-2012,Canada,USCA,Office Supplies,87.84,0,29.7
+05-03-2013,United States,USCA,Furniture,33.568,0.2,-5.4548
+17-12-2015,Mexico,LATAM,Furniture,1697.584,0.2,-63.756
+15-11-2012,China,Asia Pacific,Furniture,2063.4,0,123.75
+18-10-2014,France,Europe,Technology,632.043,0.15,7.263
+09-10-2015,China,Asia Pacific,Furniture,2906.4,0,1220.52
+24-03-2015,India,Asia Pacific,Furniture,2572.74,0,1080.54
+06-11-2015,United States,USCA,Office Supplies,16.03,0.8,-25.648
+31-12-2013,Belgium,Europe,Office Supplies,1583.82,0,126.63
+25-08-2015,United States,USCA,Office Supplies,24.672,0.2,7.71
+25-08-2015,United States,USCA,Office Supplies,3.744,0.2,1.3104
+09-04-2015,Australia,Asia Pacific,Furniture,1656.72,0.1,-110.52
+04-10-2015,Australia,Asia Pacific,Technology,2015.496,0.1,850.836
+10-11-2013,Spain,Europe,Technology,2219.184,0.1,24.624
+17-10-2015,New Zealand,Asia Pacific,Technology,2533.92,0,278.64
+04-12-2015,Mexico,LATAM,Furniture,1410.4,0.2,-88.2
+25-10-2013,Japan,Asia Pacific,Furniture,1773.72,0.2,44.22
+20-09-2012,Benin,Africa,Technology,1377.9,0,289.2
+10-11-2012,Mexico,LATAM,Technology,2582.16,0,516.36
+07-12-2013,United States,USCA,Technology,773.94,0,224.4426
+13-03-2013,France,Europe,Technology,1257.456,0.15,-29.664
+25-12-2015,United States,USCA,Office Supplies,1003.62,0,0
+28-12-2012,Nicaragua,LATAM,Furniture,2429.44,0,534.4
+14-10-2015,United States,USCA,Office Supplies,348.56,0,104.568
+28-01-2015,France,Europe,Furniture,977.022,0.1,271.332
+13-11-2014,France,Europe,Furniture,2891.7,0.1,1188.81
+03-09-2015,United States,USCA,Office Supplies,1577.94,0,757.4112
+15-08-2013,Australia,Asia Pacific,Technology,2042.82,0.1,-136.26
+14-07-2015,Brazil,LATAM,Technology,997.8004,0.002,327.9004
+12-01-2013,Australia,Asia Pacific,Technology,1411.344,0.1,486.054
+25-04-2013,Iran,Asia Pacific,Furniture,1647,0,625.8
+14-10-2014,Australia,Asia Pacific,Furniture,1313.712,0.1,102.072
+07-05-2013,Australia,Asia Pacific,Technology,972.567,0.1,194.427
+07-08-2012,China,Asia Pacific,Technology,1273.56,0,573
+16-12-2012,Germany,Europe,Technology,1908.18,0,820.44
+24-11-2015,United States,USCA,Technology,195.96,0.2,19.596
+14-11-2012,Australia,Asia Pacific,Furniture,2398.374,0.4,-1479.126
+05-11-2013,Ukraine,Europe,Technology,680.28,0,231.24
+06-01-2013,Norway,Europe,Technology,964.08,0,337.41
+28-11-2012,United States,USCA,Technology,575.92,0.2,71.99
+22-09-2012,Australia,Asia Pacific,Technology,1709.235,0.1,588.735
+28-08-2013,Iraq,Asia Pacific,Furniture,929.34,0,65.04
+09-03-2015,United States,USCA,Office Supplies,171.2,0.2,64.2
+10-11-2013,United States,USCA,Technology,79.9,0,35.156
+17-06-2015,Australia,Asia Pacific,Technology,2383.857,0.1,794.577
+05-06-2013,United Kingdom,Europe,Technology,1891.5,0,832.2
+03-05-2014,Dominican Republic,LATAM,Office Supplies,912.24,0.2,68.4
+02-10-2014,Nicaragua,LATAM,Technology,947.22176,0.002,377.70176
+14-12-2012,United Kingdom,Europe,Furniture,1983.015,0.1,616.815
+25-10-2013,Nicaragua,LATAM,Technology,2146.6,0,429.3
+18-02-2014,Spain,Europe,Technology,2879.82,0,1295.73
+11-09-2015,France,Europe,Furniture,1622.01,0.35,-623.94
+15-10-2014,France,Europe,Office Supplies,1503.684,0.1,284.004
+07-12-2013,United States,USCA,Office Supplies,21.36,0.2,7.209
+16-10-2014,Indonesia,Asia Pacific,Office Supplies,893.5614,0.17,247.6014
+11-03-2015,Cuba,LATAM,Furniture,1143.44,0,320.16
+17-09-2015,Morocco,Africa,Technology,2280.6,0,136.8
+03-11-2012,Bolivia,LATAM,Office Supplies,1401.84,0,126.16
+29-09-2015,Germany,Europe,Technology,2088.24,0,83.52
+09-07-2015,India,Asia Pacific,Furniture,2194.53,0,438.75
+19-03-2013,Germany,Europe,Office Supplies,1527.12,0.1,474.96
+13-06-2014,Japan,Asia Pacific,Office Supplies,972.615,0.5,-486.465
+31-08-2014,Germany,Europe,Technology,794.7,0,174.78
+24-05-2014,Malaysia,Asia Pacific,Furniture,2761.2,0,110.34
+28-06-2012,Russia,Europe,Furniture,3312.24,0,1622.88
+13-12-2012,Mexico,LATAM,Furniture,825.792,0.2,41.232
+28-11-2012,United States,USCA,Office Supplies,30.4,0,15.2
+12-08-2014,India,Asia Pacific,Technology,3180.3,0,381.6
+10-09-2013,China,Asia Pacific,Furniture,1860,0,316.2
+11-06-2014,India,Asia Pacific,Technology,2582.16,0,361.44
+24-10-2014,Malaysia,Asia Pacific,Technology,881.1,0,184.95
+11-06-2014,France,Europe,Technology,1622.1825,0.15,324.3825
+20-09-2013,United Kingdom,Europe,Technology,1677.186,0.1,521.766
+15-05-2015,Japan,Asia Pacific,Technology,1001.88,0,230.4
+20-02-2014,United States,USCA,Office Supplies,16.496,0.2,5.5674
+09-12-2012,United Kingdom,Europe,Office Supplies,554.526,0.1,-0.054
+18-10-2014,El Salvador,LATAM,Technology,2120.8,0,275.7
+29-11-2014,Iran,Asia Pacific,Technology,1531.2,0,45.9
+24-12-2015,Qatar,Asia Pacific,Technology,1572.84,0,141.48
+05-02-2013,India,Asia Pacific,Furniture,1236.33,0,519.21
+07-12-2013,United States,USCA,Office Supplies,6.688,0.2,2.3408
+28-08-2015,China,Asia Pacific,Technology,759.66,0,311.46
+09-02-2014,Australia,Asia Pacific,Furniture,2951.991,0.3,-632.799
+09-03-2015,United States,USCA,Office Supplies,3.36,0,0.8736
+11-05-2012,France,Europe,Furniture,627.276,0.35,-135.144
+17-10-2012,United States,USCA,Technology,1394.95,0,362.687
+12-08-2014,Albania,Europe,Technology,553.92,0,22.08
+24-06-2015,Germany,Europe,Technology,3873.24,0,890.82
+31-01-2015,China,Asia Pacific,Technology,791.19,0,126.54
+26-05-2015,China,Asia Pacific,Furniture,2470.5,0,518.76
+25-10-2012,Mexico,LATAM,Technology,2120.7,0,63.6
+28-01-2015,New Zealand,Asia Pacific,Furniture,759.06,0,15.12
+22-05-2014,China,Asia Pacific,Office Supplies,1581.03,0,790.47
+11-08-2012,Vietnam,Asia Pacific,Technology,1161.1971,0.37,-147.5229
+02-05-2012,Tanzania,Africa,Technology,642.72,0,224.94
+26-08-2014,Mexico,LATAM,Technology,1308.48,0,13.08
+01-10-2013,India,Asia Pacific,Furniture,3547.44,0,780.24
+25-06-2014,China,Asia Pacific,Furniture,724.8,0,333.36
+18-09-2015,United States,USCA,Furniture,1292.94,0,77.5764
+21-04-2015,Chile,LATAM,Furniture,803.52,0,80.28
+17-10-2012,United States,USCA,Office Supplies,275.97,0,11.0388
+28-03-2015,Mexico,LATAM,Furniture,1011.696,0.2,126.336
+08-09-2015,Cuba,LATAM,Furniture,2419.2,0,411.18
+18-11-2014,Dominican Republic,LATAM,Office Supplies,803.04,0.2,180.64
+17-10-2015,Martinique,LATAM,Furniture,1773.72,0,212.76
+07-03-2013,United Kingdom,Europe,Technology,1893.3,0,927.6
+16-04-2015,United Kingdom,Europe,Technology,777.24,0,170.88
+18-06-2013,Australia,Asia Pacific,Office Supplies,689.094,0.1,-53.886
+13-07-2012,United Kingdom,Europe,Technology,737.91,0.1,-8.37
+30-05-2014,Germany,Europe,Technology,2570.76,0,976.8
+17-06-2014,United Kingdom,Europe,Technology,1199.76,0,479.88
+26-03-2015,China,Asia Pacific,Technology,3216.24,0,96.39
+14-09-2012,Brazil,LATAM,Furniture,1274.24,0.2,-127.46
+20-09-2013,Finland,Europe,Office Supplies,2145.72,0,364.68
+17-10-2012,United States,USCA,Furniture,545.88,0,70.9644
+16-12-2012,Taiwan,Asia Pacific,Furniture,882.15,0,114.6
+18-09-2015,United States,USCA,Office Supplies,164.88,0,80.7912
+20-08-2012,France,Europe,Office Supplies,895.05,0.1,178.95
+24-09-2013,Syria,Asia Pacific,Technology,1570.176,0.4,104.616
+01-04-2015,China,Asia Pacific,Furniture,2614.689,0.3,-821.961
+09-12-2015,United States,USCA,Office Supplies,69.48,0,20.844
+17-10-2014,New Zealand,Asia Pacific,Technology,636.78,0,286.5
+19-01-2014,Brazil,LATAM,Furniture,2751.2,0,110
+10-12-2015,Thailand,Asia Pacific,Technology,1587.0015,0.17,-76.5585
