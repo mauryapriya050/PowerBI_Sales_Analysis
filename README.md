@@ -19,13 +19,13 @@ The objective of this project is to provide stakeholders with actionable insight
 
 ## Dashboard Components:
 
-- Sum of Discount: Displays the total discount applied.
-- Sum of Sales: Shows the total sales amount.
-- Sum of Profit and Category: Presents the total profit with respect to different categories.
-- Country: Lists countries with sales details.
-- Sales by Year: Visualizes sales trends over different years.
-- Sales by Market: Illustrates sales distribution across different market segments.
-- Sum of Sales and Profit by Order Date: Analyzes the relationship between sales and profit over time.
+- **Sum of Discount**: Displays the total discount applied.
+- **Sum of Sales**: Shows the total sales amount.
+- **Sum of Profit and Category**: Presents the total profit with respect to different categories.
+- **Country**: Lists countries with sales details.
+- **Sales by Year**: Visualizes sales trends over different years.
+- **Sales by Market**: Illustrates sales distribution across different market segments.
+- **Sum of Sales and Profit by Order Date**: Analyzes the relationship between sales and profit over time.
 
 ## License
 This project is currently not licensed. All rights reserved.
