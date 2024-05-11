@@ -14,6 +14,9 @@ The objective of this project is to provide stakeholders with actionable insight
 
 ![image](https://github.com/mauryapriya050/PowerBI_Sales_Analysis/assets/135995774/858c7264-e64d-465d-acb6-3139f2837048)
 
+> [!NOTE]
+> **CSV file already given.**
+
 ## License
 This project is currently not licensed. All rights reserved.
 
